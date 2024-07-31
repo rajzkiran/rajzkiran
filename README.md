@@ -1,8 +1,8 @@
-- 👋 Hi, I’m n chandra rajkiran
-- 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning flul stack JAVA course.
-- 💞️ I’m looking to collaborate on entry level position in your MNC
-- 📫im currently staying in bangulure...
+- 👋 Hi, I’m N Chandra Rajkiran
+- 👀 I’m interested in Full Stack Development.
+- 🌱 I’m currently learning Full Stack JAVA course.
+- 💞️ I’m looking to collaborate on Entry Level position in your MNC
+- 📫im currently staying in Bangulure...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
